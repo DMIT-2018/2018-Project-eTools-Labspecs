@@ -40,4 +40,4 @@ The description of the issue should include a high-level Task-List of work that 
 
 ----
 
-*Back to the [General Instructions](./ReadMe.md)*
+*Back to the [General Instructions](./README.md)*
