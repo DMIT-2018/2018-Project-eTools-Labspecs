@@ -7,4 +7,4 @@ Details of the marking guides for each deliverable are included in the Word docu
 - [Part 3 Group](./Part-3/Group.md)
 - [Part 3 Scenario](./Part-3/Scenario.md)
 
-*Back to the [General Instructions](./../ReadMe.md)*
+*Back to the [General Instructions](./../README.md)*

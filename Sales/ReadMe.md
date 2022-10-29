@@ -82,4 +82,4 @@ Use the following rules when processing returns.
 
 ----
 
-*Back to the [General Instructions](./../ReadMe.md)*
+*Back to the [General Instructions](./../README.md)*

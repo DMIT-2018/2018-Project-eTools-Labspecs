@@ -8,4 +8,4 @@ The [eTools.bacpac](./eTools2021.bacpac) has been provided for you to install th
 
 ----
 
-*Back to the [General Instructions](./../ReadMe.md)*
+*Back to the [General Instructions](./../README.md)*

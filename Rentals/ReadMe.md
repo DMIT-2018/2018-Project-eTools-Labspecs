@@ -76,4 +76,4 @@ The Return process begins with the customer returning the equipment. The rental 
 
 ----
 
-*Back to the [General Instructions](./../ReadMe.md)*
+*Back to the [General Instructions](./../README.md)*
