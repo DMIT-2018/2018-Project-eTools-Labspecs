@@ -1,42 +1,22 @@
-# Deliverable 1 - **Development Planning**
+# Deliverable 2 - **Transactional Service Methods**
 
-In the `ReadMe.md` at the root of your repository, include each team member's full name and GitHub username along with their chosen/assigned subsystem name.
+This deliverable requires that you create working solutions for your transactional service methods using Linqpad. Complete the implementation of your scenario/subsystem service method(s). Test the service method(s). Your service method(s) are to be coded in separate Linqpad Program environment file(s), one for each scenario. 
 
-## Milestones and Issues
+> ***NOTE:*** Compiler errors that prevent the project from loading may be treated as an automatic mark of zero for this section.
 
-In GitHub, create serveral **milestones** representing project deliverables with the assigned due dates. The milestones should be set up along both shared and individual responsibilities for this project. For the first two deliverables, each will have a milestone for their own selected scenario directed at the deliverable. *E.g.: If your scenario is "Sales", then you will have these milestones:*
+Be sure to develop your solution in small increments, making frequent commits and referencing your issue numbers from GitHub.
 
-- **Sales Development Plan** - Your [*implementation plan*](#implementation-plan) for the first deliverable
-- **Sales Subsystem TRX Service methods** - The working implementation of the Sales Subsystem transactional service methods.
+Document any and all bugs in an issue attached to the appropriate milestone for your scenario.
 
-For the [**Final Solution**](./Deliverable-3.md) milestones will consist of 1 milestone for group work and one for each individual scenario. The group work milestone will have a series of issues associated with the work distributed amongst the whole team for the shared component **Project Setup**. In addition, for each team member, they will need create a milestone related to their specific scenario. *E.g.: If your scenario is "Sales", then you will have these extra milestones:*
+Your Linqpad solution should:
 
-- **Sales Subsystem** - The working implementation of the Sales Subsystem (the last deliverable)
+1. contain user friendly error handling 
+1. a query(ies) displaying the data manipulated by the service method transaction
+1. use of the data models from your Deliverable-1 Planning Docment
+1. Main method used as the driver for testing
+1. services in their own appropriate method
 
-Your Issues are to be associated with the approriate milestone that you generate for your work. All of your work in this lab is to be associated with git commits that reference your GitHub Issue(s). Your instructor will be using these to track your progress and participation in this project.
-
-## Planning Document
-
-The remaining part of this *Development Planning* deliverable is where you document *your* plan for how you will implement *your* chosen scenario.
-
-> You are expected to make **regular** and **frequent** commits while working on this project. **Begin early** to ensure that you have enough time to complete this group project!
-
-## Implementation Plan
-
-Create an initial issue where you document your overall implementation plan. This implementation plan for your scenario must address the following areas of concern. You can detail your thoughts on each area as comments to this initial issue. **Use the Planning Document exercise as a blue print for this deliverable.**
-
-- **UI Design Implementation**
-  - Identify HTML elements for various parts of the UI
-  - Identify which buttons/links trigger POST and GET requests
-  - Include mock-up images of the user interface
-- **Data Modelling**
-  - Identify the distinct data models for the **command** and **query** aspects of the UI Design needs and the business processing needs of the system
-- **Business Processing**
-  - Identify specific method signatures that you would need to create for the Business Logic Layer (BLL), including the parameter types and return type of the methods.
-  - For each BLL method, identify the tables/entities you will need to work with; a high-level process outline of work; along with any important business processing requirements for the method (business rules, validation, etc.).
-
-The description of the issue should include a high-level Task-List of work that would need to be done. These task-list items can then be turned into their own issues for the [coding phase](./Deliverable-3.md) of the project. 
-
+**Use your class demonstrations in accomplishing this task.** You may discover issues with your original Planning document. **DO NOT** alter your original comments of your plan. Create **new** comments within your Planning document issue to track any changes to your original plan.
 
 ----
 

@@ -28,9 +28,8 @@ Lab Weight: **40%** of the Final Grade
 
 This lab is broken up into the following deliverables. Your instructor will inform you of the specific due-dates for these deliverables along with any modifications to these specifications. You should take note of the [**Marking Guide**](./Marking/ReadMe.md).
 
-1. **10% - [Development Planning](./Deliverable-1.md)** - (1st class of Week 12) - The development planning deliverable is where you create your implementation plan for your specific scenario. The details for this requirement can be found in this document.
-2. **10% - [TRX Service Methods](./Deliverable-2.md)** - (2nd class of Week 14) - The development and testing of your transaction method(s) required by your selected secanrio. The details for this requirement can be found in this document.
-3. **20% - [Final Solution](./Deliverable-3.md)** - (1st class of Week 15) - The final solution will consist of the working implementation of your team members' individual scenarios. The deliverable will distribute project solution setup tasks equally among your team. The individual scenarios must be integrated as a single Visual Studio solution. The details for your individual scenario requirements can be found in the following documents.
+1. **15% - [TRX Service Methods](./Deliverable-1.md)** - (Nov 8) - The development and testing of your transaction method(s) required by your selected secanrio. The details for this requirement can be found in this document.
+2. **15% - [Final Solution](./Deliverable-2.md)** - (Dec 7) - The final solution will consist of the working implementation of your team members' individual scenarios. The deliverable will distribute project solution setup tasks equally among your team. The individual scenarios must be integrated as a single Visual Studio solution. The details for your individual scenario requirements can be found in the following documents.
       - [**Purchasing**](Purchasing/ReadMe.md)
       - [**Receiving**](Receiving/ReadMe.md)
       - [**Rentals**](Rentals/ReadMe.md)
