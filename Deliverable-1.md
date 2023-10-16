@@ -1,4 +1,4 @@
-# Deliverable 2 - **Transactional Service Methods**
+# Deliverable 1 - **Transactional Service Methods**
 
 This deliverable requires that you create working solutions for your transactional service methods using Linqpad. Complete the implementation of your scenario/subsystem service method(s). Test the service method(s). Your service method(s) are to be coded in separate Linqpad Program environment file(s), one for each scenario. Please speak to your instructor on this.
 
