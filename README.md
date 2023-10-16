@@ -4,7 +4,7 @@ Lab Weight: **30%** of the Final Grade
 
 ## Overview
 
-> This is a team project based on the [**eTools database**](Database/ReadMe.md).
+> This is a team project based on the [etools database](Database/ReadMe.md)
 
 **Team Project Size: 4 members.** The team project consists of a set of **baseline requirements** and four **core scenarios** (subsystems). Each team member is responsible to complete the subsystem for their selected scenario on their own; the baseline requirements are to be shared equitably by all members of the team. 
 
