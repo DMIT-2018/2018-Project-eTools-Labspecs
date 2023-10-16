@@ -1,6 +1,6 @@
 # Tools R Us
 
-Lab Weight: **40%** of the Final Grade
+Lab Weight: **30%** of the Final Grade
 
 ## Overview
 
