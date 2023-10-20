@@ -15,6 +15,10 @@ Your Linqpad solution should:
 1. Main method used as the driver for testing
 1. services in their own appropriate method
 
+**An example on how to reused your view models can be found here** <a href="Examples/Calling%20ViewModel%20From%20LINQ/Readme.md" target="_blank">Reusing View Models</a>
+
+</br>
+
 **Use the information provided by your instructor.** You may discover things in the "in depth documents" that maybe missing or enhance.
 
 ----
