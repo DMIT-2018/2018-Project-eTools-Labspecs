@@ -21,6 +21,9 @@ Your Linqpad solution should:
 
 **Use the information provided by your instructor.** You may discover things in the "in depth documents" that maybe missing or enhance.
 
+### Project Layout
+![Project Layout](Deliverable-1-Layout.png)
+
 ----
 
 *Back to the [General Instructions](./README.md)*
