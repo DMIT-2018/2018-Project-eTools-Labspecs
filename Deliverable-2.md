@@ -39,6 +39,7 @@ Using the techniques and practices demonstrated in class, set up the repository 
   - Configure **services** and [**user secrets**](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-5.0&tabs=windows) (e.g.: *connection string* values) for each subsystem when **Stage 3** is complete
     - Document the names and purposes of the **user secrets** in the `ReadMe.md` at the root of the repository
 
+![Deliverable 2 Layout](Deliverable-2-Layout.png)
 
 ## Stage 2 - Security Setup
 
