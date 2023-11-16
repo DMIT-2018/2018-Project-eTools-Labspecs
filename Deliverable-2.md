@@ -43,7 +43,7 @@ Using the techniques and practices demonstrated in class, set up the repository 
 
 ## Stage 2 - Security Setup
 
-# NOT USED FOR DELIVERABLE 3
+# NOT USED FOR DELIVERABLE 2
 
 ## Stage 3 - Subsystem Setup
 
