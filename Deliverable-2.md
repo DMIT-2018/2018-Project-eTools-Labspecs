@@ -28,7 +28,7 @@ Using the techniques and practices demonstrated in class, set up the repository 
 - [ ] **Web Application Project**
   - *This should be the first project in the solution, so that it opens as the default startup project.*
   - Use **individual accounts** for the authentication when setting up the project
-    - *Customization for the website's security will be addressed in **Stage 2**.*
+    - **NOT REQUIRED.**  If you have setup your project already using individual accounts, there are no issues if you do not use it.
   - Use styling system (such as [Holiday-CSS](https://holidaycss.js.org/)) for a consistent look & feel
   - Home page for the site must include the following
     - Group Logo
@@ -43,9 +43,7 @@ Using the techniques and practices demonstrated in class, set up the repository 
 
 ## Stage 2 - Security Setup
 
-Using the techniques discussed in class, customize the default authentication that was generated when the project was first set up.
-
-> ***NOTE:** Follow the [step-by-step instructions](./Addendum/ReadMe.md) for this semester's handling of security.
+# NOT USED FOR DELIVERABLE 3
 
 ## Stage 3 - Subsystem Setup
 
