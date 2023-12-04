@@ -4,6 +4,7 @@
 
 | Mark | Weight | Area |
 |:----:|:-----:|:-----|
+| **`TBA`**|5 | Project Setup |
 | **`TBA`**|3 | DISPLAYING – VENDORS PROCESSING |
 | **`TBA`**|4 | PROCESSING – ADD ITEMS TO CURRENT ACTIVE ORDER |
 | **`TBA`**|3 | DISPLAYING/PROCESSING – UPDATE/REMOVE ITEMS FROM CURRENT ACTIVE ORDER |
