@@ -10,7 +10,6 @@
 | **`TBA`**|3 | DISPLAYING – UNORDERED PRODUCTS |
 | **`TBA`**|5 | PROCESSING – FORCED CLOSURE |
 | **`TBA`**|10 (2 * 5) | PROCESSING – RECEIVE ORDER W. RETURNS |
-
 | **`TBA`**|**27** | **TOTAL** |
 
 ----
