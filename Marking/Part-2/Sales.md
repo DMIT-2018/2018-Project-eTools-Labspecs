@@ -4,6 +4,7 @@
 
 | Mark | Weight | Area |
 |:----:|:----:|:-----|
+| **`TBA`**|5 | Project Setup |
 | **`TBA`**|2 | DISPLAYING – STOCKITEMS FILTERED BY CATEGORY |
 | **`TBA`**|3 | PROCESSING – ADD TO CART |
 | **`TBA`**|1 | DISPLAYING – SALES - CLEAR CART |
@@ -12,7 +13,7 @@
 | **`TBA`**|2 | DISPLAYING – DISPLAY INVOICE ON REFUND |
 | **`TBA`**|5 | PROCESSING – PROCESS REFUND |
 | **`TBA`**|1 | DISPLAYING – REFUND - CLEAR CART |
-| **`TBA`**|**22** | **TOTAL** |
+| **`TBA`**|**27** | **TOTAL** |
 
 ----
 
