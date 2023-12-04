@@ -4,6 +4,7 @@
 
 | Mark | Weight |Area |
 |:----:|:----:|:-----|
+| **`TBA`**|5 | Project Setup |
 | **`TBA`**|2 | DISPLAYING – FILTER SEARCH FOR CUSTOMER |
 | **`TBA`**|1 | DISPLAYING - RENTAL EQUIPMENT |
 | **`TBA`**|4 | DISPLAYING/PROCESSING – ADD/REMOVE EQUIPMENT TO/FROM RENTAL |
@@ -13,7 +14,7 @@
 | **`TBA`**|1 | DISPLAYING – RENTAL DETAILS |
 | **`TBA`**|2 | DISPLAYING – CALCULATE CHARGES |
 | **`TBA`**|5 | PROCESSING – RETURN RENTAL EQUIPMENT |
-| **`TBA`**|**22** | **TOTAL** |
+| **`TBA`**|**27** | **TOTAL** |
 
 ----
 
