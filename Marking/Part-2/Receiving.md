@@ -4,13 +4,14 @@
 
 | Mark | Weight | Area |
 |:----:|:----:|:-----|
+| **`TBA`**|5 | Project Setup |
 | **`TBA`**|1 | DISPLAYING – PURCHASE ORDERS TO BE RECEIVED |
 | **`TBA`**|3 | DISPLAYING – SELECT ORDER FOR PROCESSING |
 | **`TBA`**|3 | DISPLAYING – UNORDERED PRODUCTS |
 | **`TBA`**|5 | PROCESSING – FORCED CLOSURE |
 | **`TBA`**|10 (2 * 5) | PROCESSING – RECEIVE ORDER W. RETURNS |
 
-| **`TBA`**|**22** | **TOTAL** |
+| **`TBA`**|**27** | **TOTAL** |
 
 ----
 
