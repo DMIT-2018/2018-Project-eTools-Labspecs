@@ -12,7 +12,7 @@
 | **`TBA`**|4 | PROCESSING – SAVE CURRENT ACTIVE ORDER |
 | **`TBA`**|5 | PROCESSING – PLACE CURRENT ACTIVE ORDER |
 | | | |
-| **`TBA`**|**22** | **TOTAL** |
+| **`TBA`**|**27** | **TOTAL** |
 
 ----
 
